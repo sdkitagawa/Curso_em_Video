@@ -1,11 +1,6 @@
 '''
 Develop an algorithm that reads the price of a product and displays its price with a 5% discount.
 
-Refactoring:
- - User can now set the product price
- - User can now set the amount of discount desired
- - Now it show the discount price
- - Shows the final price of the product
 
 '''
 

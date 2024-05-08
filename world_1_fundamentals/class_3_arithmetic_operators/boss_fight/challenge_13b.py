@@ -1,12 +1,6 @@
 '''
 Create an algorithm that reads an employee's salary and displays their name and salary, with a 15% increase.
 
-Refactoring:
- - User can now set the percentage of the raise
- - Shows the salary before the raise
- - Shows the raise amount
- - Shows the salary after the raise
-
 '''
 
 personsSalary = float(input("Please enter the person's current salary: "))
